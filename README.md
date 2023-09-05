@@ -22,7 +22,7 @@ Developed by: Vikash A R
 
 RegisterNumber:  212222040179
 
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.array(eval(input()))
